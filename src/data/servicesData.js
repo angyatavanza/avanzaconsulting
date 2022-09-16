@@ -1,8 +1,8 @@
 /* eslint-disable */
-import { BiShoppingBag, BiPencil } from "react-icons/bi";
+import { BiHappy, BiShoppingBag, BiPencil } from "react-icons/bi";
 import { BsCodeSlash, BsClipboardData } from "react-icons/bs";
-import { AiOutlineMail, AiFillAudio } from "react-icons/ai";
-import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, FaVideo, FaTabletAlt, FaRegNewspaper } from "react-icons/fa";
+import { AiOutlineMail, AiOutlineFileSearch, AiFillAudio } from "react-icons/ai";
+import { FaSquarespace, FaLaptopCode, FaLightbulb, FaMobileAlt, FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, FaVideo, FaTabletAlt, FaRegNewspaper } from "react-icons/fa";
 
  
 
@@ -14,13 +14,13 @@ export const servicesData = [
     // },
     {
         id: 2,
-        title: 'Content Writing',
-        icon: <BiPencil /> 
+        title: 'Custom Software Development',
+        icon: <BsCodeSlash/> 
     },
     {
         id: 3,
-        title: 'Email Marketing',
-        icon: <AiOutlineMail />
+        title: 'Web Development (Frontend & Backend)',
+        icon: <FaLaptopCode />
     },
     // {
     //     id: 4,
@@ -35,34 +35,34 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Web Design',
-        icon: <BsCodeSlash />
+        title: 'Mobile Development',
+        icon: < FaMobileAlt />
     },
     {
         id: 7,
-        title: 'Photography',
-        icon: <FaCameraRetro />
+        title: 'Technical Consulting',
+        icon: <FaLightbulb/>
     },
-    // {
-    //     id: 8,
-    //     title: 'Pinterest Virtual Assistant',
-    //     icon: <FaPinterest />
-    // }, 
+     {
+         id: 8,
+         title: 'Search Engine Optimization (SEO)',
+         icon: < AiOutlineFileSearch />
+     }, 
     {
         id: 9,
-        title: 'Video Editing',
-        icon: <FaVideo />
+        title: 'Web Design',
+        icon: < FaSquarespace/>
     },
-    // {
-    //     id: 10,
-    //     title: 'Data Entry', 
-    //     icon: <BsClipboardData />
-    // },
     {
-        id: 11,
-        title: 'Ebook Writing',
-        icon: <FaTabletAlt />
-    },
+         id: 10,
+         title: 'Social Media Content Creation', 
+         icon: <BiPencil />
+     },
+    //{
+    //    id: 11,
+    //    title: 'Search Engine Optimization (SEO)',
+    //    icon: <FaTabletAlt />
+    //},
     // {
     //     id: 12,
     //     title: 'Audio Transcription',
@@ -70,8 +70,8 @@ export const servicesData = [
     // },
     {
         id: 13,
-        title: 'Blog Posting',
-        icon: <FaRegNewspaper />
+        title: 'User Experience (UX) Design',
+        icon: <BiHappy />
     },
 
 ]
