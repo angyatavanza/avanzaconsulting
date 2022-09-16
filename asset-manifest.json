@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.59a9b124.chunk.css",
-    "main.js": "/portfolio/static/js/main.cf6ecca2.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.cf6ecca2.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.0b8f652d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0b8f652d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.ec468f81.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.ec468f81.js.map",
     "static/css/2.b183c589.chunk.css": "/portfolio/static/css/2.b183c589.chunk.css",
@@ -109,7 +109,6 @@
     "static/media/nginx.14c0011a.svg": "/portfolio/static/media/nginx.14c0011a.svg",
     "static/media/numpy.5bdfa40b.svg": "/portfolio/static/media/numpy.5bdfa40b.svg",
     "static/media/nuxtJS.81cb52af.svg": "/portfolio/static/media/nuxtJS.81cb52af.svg",
-    "static/media/one.a3146128.svg": "/portfolio/static/media/one.a3146128.svg",
     "static/media/opencv.0f128460.svg": "/portfolio/static/media/opencv.0f128460.svg",
     "static/media/orangeTheme-boy.0ebb8c72.svg": "/portfolio/static/media/orangeTheme-boy.0ebb8c72.svg",
     "static/media/orangeTheme-girl.d0ad58be.svg": "/portfolio/static/media/orangeTheme-girl.d0ad58be.svg",
@@ -157,6 +156,6 @@
     "static/css/2.b183c589.chunk.css",
     "static/js/2.43c2306e.chunk.js",
     "static/css/main.59a9b124.chunk.css",
-    "static/js/main.cf6ecca2.chunk.js"
+    "static/js/main.0b8f652d.chunk.js"
   ]
 }
