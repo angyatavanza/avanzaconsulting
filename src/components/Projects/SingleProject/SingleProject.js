@@ -48,7 +48,8 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
                     >
                         {name}
                     </h2>
-                    <img src={image ? image : placeholder} alt={name} />
+                    <iframe src= {image ? image : placeholder} alt={name} width="640" height="480" allow="autoplay">
+                        </iframe> 
                     <div className='project--showcaseBtn'>
                         <a
                             href={demo}

@@ -1,4 +1,4 @@
-import one from '../assets/svg/projects/one.svg'
+//import one from 'https://drive.google.com/file/d/1hITZ3K4MNC9dnGArb6BIa_uQDEB8pLEK/preview'
 import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
 import four from '../assets/svg/projects/four.svg'
@@ -11,57 +11,57 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: one
+        projectName: 'Web Design for Marketplace Under The Oaks',
+        projectDesc: '',
+        tags: ['Squarespace', 'CSS'],
+        code: '',
+        demo: '',
+        image: "https://drive.google.com/file/d/1hITZ3K4MNC9dnGArb6BIa_uQDEB8pLEK/preview"
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
+        projectName: 'Mobile App Development for Learn Fresh',
         projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
+        tags: ['React Native', 'Django'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: two
+        image: "https://drive.google.com/file/d/1lbcQ6qN_b2KiY44Z-cdIOxW2A3hN_ZS6/preview"
     },
     {
         id: 3,
-        projectName: 'Weather App',
+        projectName: 'Web Development (Frontend & Backend) for Learn Fresh',
         projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
         tags: ['Django', 'CSS', 'Material Ui'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: three
+        image: "https://drive.google.com/file/d/1hITZ3K4MNC9dnGArb6BIa_uQDEB8pLEK/preview"
     },
     {
         id: 4,
-        projectName: 'Android Patient Tracker',
+        projectName: 'Custom Web Development NC Dept of Health',
         projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
         tags: ['Flutter', 'Firebase'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: four
+        image: "https://drive.google.com/file/d/1hITZ3K4MNC9dnGArb6BIa_uQDEB8pLEK/preview"
     },
     {
         id: 5,
-        projectName: 'E-Commerce App',
+        projectName: 'UX Design for Guide to Justice',
         projectDesc: 'A Simple E-commerce application',
-        tags: ['React Native', 'Firebase'],
+        tags: ['Figma', 'Adobe XD'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: five
+        image: "https://drive.google.com/file/d/1hITZ3K4MNC9dnGArb6BIa_uQDEB8pLEK/preview"
     },
     {
         id: 6,
-        projectName: 'Uber Lite',
+        projectName: 'Content Creation for Social Media Clients',
         projectDesc: 'Uber clone',
-        tags: ['Flutter'],
+        tags: ['Canva'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: six
+        image: "https://drive.google.com/file/d/1hITZ3K4MNC9dnGArb6BIa_uQDEB8pLEK/preview"
     },
     {
         id: 7,
@@ -70,7 +70,7 @@ export const projectsData = [
         tags: ['React', 'Redux', 'Bootstrap'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: seven
+        image: "https://drive.google.com/file/d/1hITZ3K4MNC9dnGArb6BIa_uQDEB8pLEK/preview"
     },
     {
         id: 8,
@@ -79,7 +79,7 @@ export const projectsData = [
         tags: ['Flutter', 'React'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: eight
+        image: "https://drive.google.com/file/d/1hITZ3K4MNC9dnGArb6BIa_uQDEB8pLEK/preview"
     },
 ]
 
