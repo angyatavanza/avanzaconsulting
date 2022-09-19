@@ -9,6 +9,7 @@ import { HiArrowRight } from "react-icons/hi";
 import './Projects.css'
 import SingleProject from './SingleProject/SingleProject';
 
+
 function Projects() {
 
     const { theme } = useContext(ThemeContext);
