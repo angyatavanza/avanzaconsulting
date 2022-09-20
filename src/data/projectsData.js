@@ -38,7 +38,7 @@ export const projectsData = [
     },
     {
         id: 4,
-        projectName: 'Custom Rshiny Dashboard for NC Dept of Health',
+        projectName: 'Custom Web Development of Diabetes Rshiny Dashboard',
         projectDesc: 'This Rshiny Dashboard features interactive data visualizations utilizing diabetes data, with coverage from 2015-2019 ',
         tags: ['R', 'RShiny'],
         code: '',
@@ -54,6 +54,16 @@ export const projectsData = [
         demo: '',
         image: "https://drive.google.com/file/d/1hITZ3K4MNC9dnGArb6BIa_uQDEB8pLEK/preview"
     },
+    {
+        id: 6,
+        projectName: 'Web Design and Development for Guide To Justice',
+        projectDesc: 'Guide to Justice is a platform that connects people to educational racial injustice resources',
+        tags: ['Figma', 'Adobe XD', 'CSS', 'React'],
+        code: '',
+        demo: 'https://www.figma.com/proto/VKeRxkq6nu2oPkY702t6yP/GTJ-UX-Web-Design?node-id=0%3A1&scaling=min-zoom&starting-point-node-id=1337%3A286',
+        image: "https://drive.google.com/file/d/1i26NzDLBY0yrot_-ls80A_MwvcViujPM/preview"
+    },
+    
 ]
 
 

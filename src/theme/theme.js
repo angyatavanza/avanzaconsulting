@@ -1,5 +1,6 @@
 /* eslint-disable */
 import { 
+    profilePic,
     blueThemegirl, blueThemeboy, bwThemeboy, bwThemegirl, greenThemeboy, greenThemegirl, orangeThemeboy, 
     orangeThemegirl, pinkThemeboy, pinkThemegirl, purpleThemeboy, purpleThemegirl, redThemeboy, redThemegirl, yellowThemeboy,
     yellowThemegirl,eduBlack,eduBlue,eduGreen,eduOrange,eduPink,eduPurple,eduRed,eduYellow,expBlack,expBlue,expGreen,expOrange,
@@ -87,8 +88,8 @@ export const bwThemeDark = {
     tertiary80: '#eaeaeacc',
     tertiary70: '#eaeaeab3',
     tertiary50: '#eaeaea80',
-    aboutimg1: bwThemeboy,
-    aboutimg2: bwThemegirl,
+    aboutimg1: profilePic,
+    aboutimg2:  profilePic,
     eduimg: eduBlack,
     expimg: expBlack,
     contactsimg: contactsBlack
