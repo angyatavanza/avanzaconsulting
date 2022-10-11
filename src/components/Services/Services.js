@@ -19,7 +19,7 @@ function Services() {
                     </div>
                     <div className="services-body">
                         <p style={{color:theme.tertiary80}}>
-                            These are some of the services I offer. Reach out to me if I can help you with any! I am available to work remotely or in person in Charlotte, NC
+                            These are some of the services I offer. I am currently taking on new clients. I am available to work remotely or in person in Charlotte, NC.  Please send me an email, and tell me a bit about your project and what you’re looking for and we can schedule a virtual call to discuss how I can help you. 
                         </p>
                         <div className="services-bodycontainer">
                             {servicesData.map(services => (
