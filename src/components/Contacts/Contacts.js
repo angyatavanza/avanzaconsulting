@@ -2,6 +2,7 @@ import React, { useContext, useState } from 'react';
 import { Snackbar, IconButton, SnackbarContent } from '@material-ui/core';
 import CloseIcon from '@material-ui/icons/Close';
 import axios from 'axios';
+import validator from 'validator';
 import isEmail from 'validator/lib/isEmail';
 import { makeStyles } from '@material-ui/core/styles';
 import {
@@ -26,6 +27,7 @@ import { ThemeContext } from '../../contexts/ThemeContext';
 import { socialsData } from '../../data/socialsData';
 import { contactsData } from '../../data/contactsData';
 import './Contacts.css';
+
 
 function Contacts() {
     const [open, setOpen] = useState(false);
@@ -133,7 +135,7 @@ function Contacts() {
         e.preventDefault();
 
         if (name && email && message) {
-            if (isEmail(email)) {
+            if (validator.isEmail(email)) {
                 const responseData = {
                     name: name,
                     email: email,
