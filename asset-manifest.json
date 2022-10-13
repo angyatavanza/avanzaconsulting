@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6caaa8b2.chunk.css",
-    "main.js": "/portfolio/static/js/main.07d5a97f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.07d5a97f.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.59da88c3.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.59da88c3.js.map",
+    "main.js": "/portfolio/static/js/main.76f8133f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.76f8133f.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.cf2333f0.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.cf2333f0.js.map",
     "static/css/2.b183c589.chunk.css": "/portfolio/static/css/2.b183c589.chunk.css",
-    "static/js/2.0c7d3cc4.chunk.js": "/portfolio/static/js/2.0c7d3cc4.chunk.js",
-    "static/js/2.0c7d3cc4.chunk.js.map": "/portfolio/static/js/2.0c7d3cc4.chunk.js.map",
-    "static/js/3.873be94e.chunk.js": "/portfolio/static/js/3.873be94e.chunk.js",
-    "static/js/3.873be94e.chunk.js.map": "/portfolio/static/js/3.873be94e.chunk.js.map",
+    "static/js/2.259a4abd.chunk.js": "/portfolio/static/js/2.259a4abd.chunk.js",
+    "static/js/2.259a4abd.chunk.js.map": "/portfolio/static/js/2.259a4abd.chunk.js.map",
+    "static/js/3.5137ee73.chunk.js": "/portfolio/static/js/3.5137ee73.chunk.js",
+    "static/js/3.5137ee73.chunk.js.map": "/portfolio/static/js/3.5137ee73.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.b183c589.chunk.css.map": "/portfolio/static/css/2.b183c589.chunk.css.map",
     "static/css/main.6caaa8b2.chunk.css.map": "/portfolio/static/css/main.6caaa8b2.chunk.css.map",
-    "static/js/2.0c7d3cc4.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0c7d3cc4.chunk.js.LICENSE.txt",
+    "static/js/2.259a4abd.chunk.js.LICENSE.txt": "/portfolio/static/js/2.259a4abd.chunk.js.LICENSE.txt",
     "static/media/Angy_Aguilar_Resume_Sept20.0a1670e0.pdf": "/portfolio/static/media/Angy_Aguilar_Resume_Sept20.0a1670e0.pdf",
     "static/media/index.css": "/portfolio/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/IMG_0343.6c4f0318.jpeg": "/portfolio/static/media/IMG_0343.6c4f0318.jpeg",
@@ -153,10 +153,10 @@
     "static/media/yellowTheme-girl.641f7b0b.svg": "/portfolio/static/media/yellowTheme-girl.641f7b0b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.59da88c3.js",
+    "static/js/runtime-main.cf2333f0.js",
     "static/css/2.b183c589.chunk.css",
-    "static/js/2.0c7d3cc4.chunk.js",
+    "static/js/2.259a4abd.chunk.js",
     "static/css/main.6caaa8b2.chunk.css",
-    "static/js/main.07d5a97f.chunk.js"
+    "static/js/main.76f8133f.chunk.js"
   ]
 }
