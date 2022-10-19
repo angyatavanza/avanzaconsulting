@@ -1,5 +1,5 @@
 {
-  "homepage": "https://angyaguilr.github.io/portfolio/",
+  "homepage": "https://www.avanzaconsulting.co/",
   "name": "developer-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -27,7 +27,7 @@
   },
   "scripts": {
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b launch03 -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

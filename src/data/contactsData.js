@@ -1,5 +1,5 @@
 export const contactsData = {
-    email: 'aaguilar@elon.edu',
+    email: 'angy@avanzaconsulting.co',
     phone: '704-965-2376',
     address: 'Based in Charlotte, NC',
 

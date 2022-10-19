@@ -10,7 +10,7 @@ function Main() {
     return (
         <div>
             <Helmet>
-                <title>{headerData.name} - Portfolio</title>
+                <title>Avanza Tech Consulting</title>
             </Helmet>
 
             <Navbar />        
